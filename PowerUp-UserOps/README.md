@@ -41,7 +41,3 @@ Clone the repository:
 ```powershell
 git clone https://github.com/jmineros/PowerUp-UserOps.git
 cd PowerUp-UserOps
-
-## License
-
-MIT License
