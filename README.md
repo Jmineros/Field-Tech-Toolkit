@@ -59,10 +59,6 @@ iwr <Raw_Script_URL> | iex
 
 ---
 
-```markdown
-
----
-
 ## Disclaimer
 
 This toolkit is intended for use by **authorized IT professionals** in environments where proper permissions have been granted.
