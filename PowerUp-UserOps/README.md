@@ -27,6 +27,14 @@ Includes everything in Safe Mode plus:
 - RSAT: **ActiveDirectory** module installed
 - Microsoft Graph PowerShell module (auto-installed)
 
+## Configuration
+
+This project uses a local JSON config file.
+
+1. Copy the example config:
+```powershell
+copy userops.config.example.json userops.config.json
+
 ## Installation
 
 Clone the repository:
