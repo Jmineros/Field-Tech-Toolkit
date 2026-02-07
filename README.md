@@ -59,17 +59,12 @@ iwr <Raw_Script_URL> | iex
 
 ---
 
-## ✅ What to do next (very simple)
+```markdown
 
-1. Paste the block above into `README.md`
-2. Save the file
-3. Refresh GitHub
+---
 
-### You should see:
-- The PowerShell command in a grey box
-- “Disclaimer” as a normal header
-- No grey text below it
+## Disclaimer
 
-That’s it.  
-You are **finished** with this section.
+This toolkit is intended for use by **authorized IT professionals** in environments where proper permissions have been granted.
 
+Always follow site-specific policies, change control procedures, and compliance requirements.
