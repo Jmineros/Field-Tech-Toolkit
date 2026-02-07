@@ -55,8 +55,7 @@ For sites where **USB access is blocked** or removable media is prohibited:
 4. Execute directly in memory:
 ```powershell
 iwr <Raw_Script_URL> | iex
----
-
+ ```
 ---
 
 ## Disclaimer
