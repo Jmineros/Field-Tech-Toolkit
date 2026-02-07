@@ -29,4 +29,5 @@ Includes everything in Safe Mode plus:
 
 ## Usage
 ```powershell
-.\PowerUp-UserOps.ps1
+.\PowerUp-UserOps.ps1 -Identity user@domain.com -Mode Nuclear
+
