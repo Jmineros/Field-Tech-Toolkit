@@ -27,6 +27,14 @@ Includes everything in Safe Mode plus:
 - RSAT: **ActiveDirectory** module installed
 - Microsoft Graph PowerShell module (auto-installed)
 
+## Installation
+
+Clone the repository:
+
+```powershell
+git clone https://github.com/<your-username>/PowerUp-UserOps.git
+cd PowerUp-UserOps
+
 ## Usage
 ```powershell
 .\PowerUp-UserOps.ps1 -Identity user@domain.com -Mode Nuclear
