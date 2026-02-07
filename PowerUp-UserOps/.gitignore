@@ -1,0 +1,9 @@
+# Runtime artifacts
+logs/
+userops.config.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
