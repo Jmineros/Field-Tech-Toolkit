@@ -57,3 +57,10 @@ For sites where **USB access is blocked** or removable media is prohibited:
 ```powershell
 iwr <Raw_Script_URL> | iex
 
+---
+
+## Disclaimer
+
+This toolkit is intended for use by **authorized IT professionals** in environments where proper permissions have been granted.
+
+Always follow site-specific policies, change control procedures, and compliance requirements.
