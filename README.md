@@ -53,8 +53,6 @@ For sites where **USB access is blocked** or removable media is prohibited:
 2. Navigate to this repository on a **mobile device or separate workstation**
 3. Copy the **Raw** script URL
 4. Execute directly in memory:
-
-```markdown
 ```powershell
 iwr <Raw_Script_URL> | iex
 ---
