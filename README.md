@@ -49,7 +49,7 @@ It prioritizes **“Living off the Land” (LOLBins)** techniques—leveraging n
 
 For sites where **USB access is blocked** or removable media is prohibited:
 
-1. Open **PowerShell** on the target system  
+1. Open **PowerShell** on the target system
 2. Navigate to this repository on a **mobile device or separate workstation**
 3. Copy the **Raw** script URL
 4. Execute directly in memory:
@@ -59,8 +59,17 @@ iwr <Raw_Script_URL> | iex
 
 ---
 
-## Disclaimer
+## ✅ What to do next (very simple)
 
-This toolkit is intended for use by **authorized IT professionals** in environments where proper permissions have been granted.
+1. Paste the block above into `README.md`
+2. Save the file
+3. Refresh GitHub
 
-Always follow site-specific policies, change control procedures, and compliance requirements.
+### You should see:
+- The PowerShell command in a grey box
+- “Disclaimer” as a normal header
+- No grey text below it
+
+That’s it.  
+You are **finished** with this section.
+
